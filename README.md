@@ -12,9 +12,11 @@ Overall, this is all written in 482 bytes, including the bytes required for MBR.
 
 The code isn't heavily commented, especially for a beginner, but routine names should make the functionality fairly obvious. If you are interested in learning, start here:
 
-    http://wiki.osdev.org/MBR_%28x86%29
-    http://blog.markloiseau.com/2012/05/hello-world-mbr-tutorial/
-    https://en.wikibooks.org/wiki/X86_Assembly
+http://wiki.osdev.org/MBR_%28x86%29
+
+http://blog.markloiseau.com/2012/05/hello-world-mbr-tutorial/
+
+https://en.wikibooks.org/wiki/X86_Assembly
 
 # Screenshot
 ![Screenshot](https://raw.github.com/gaganpreet/mbr-game/master/screenshot.png)
